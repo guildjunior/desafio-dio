@@ -1,5 +1,4 @@
-# dio-fundamentos_swift_ios
-Fundamentos de Swift e iOS
+# Fundamentos de Swift e iOS
 
 ## O Desafio:
 ### Criar um projeto no playground usando o Xcode
